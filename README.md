@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manalalami
-- 👀 I’m interested in Cs and trading
+- 👀 I’m interested in Cs
 - 🌱 I’m currently learning Python
 - 📫 How to reach me :alaalamimanal@gmail.com
 - 😄 Pronouns: She/her
